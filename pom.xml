@@ -29,6 +29,7 @@
   <artifactId>pom-manipulation-parent</artifactId>
   <version>2.11-SNAPSHOT</version>
   <packaging>pom</packaging>
+    
   <name>POM Manipulation Extension for Maven</name>
   <url>http://github.com/jdcasey/pom-manipulation-ext</url>
   <inceptionYear>2012</inceptionYear>
